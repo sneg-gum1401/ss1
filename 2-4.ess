@@ -1,0 +1,15 @@
+start
+new card_number string
+new card_holder string
+new expiry_date string
+set card_number "1234 5678 9012 3456"
+set card_holder "Дамил Ахмадуллин"
+set expiry_date "01/25"
+log string "*************************"
+log string "*                       *"
+log string "* " >> card_number >> " *"
+log string "* " >> card_holder >> " *"
+log string "* " >> expiry_date >> " *"
+log string "*                       *"
+log string "*************************"
+finish
