@@ -1,0 +1,9 @@
+start
+log string "  ***  "
+log string " *   * "
+log string " *   * "
+log string " ***** "
+log string " *   * "
+log string " *   * "
+log string " *   * "
+finish
